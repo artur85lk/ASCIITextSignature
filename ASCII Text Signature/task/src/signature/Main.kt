@@ -101,7 +101,7 @@ private fun nazwaSymboli(name: String, i: Int) {
             }
         }
     }
-}
+ }
 
 private fun nazwaKoniec(name: String, status: String) {
     if (nazwaNowa(name) > statusLength(status)) {
