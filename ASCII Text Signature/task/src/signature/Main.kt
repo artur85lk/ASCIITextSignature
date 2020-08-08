@@ -4,7 +4,7 @@ import java.io.File
 import java.util.*
 
 
-// test git
+// test git 2,1
 enum class StatusLetters(val strings: Array<String>) {
     A(arrayOf("____", "|__|", "|  |")),
     B(arrayOf("___ ", "|__]", "|__]")),
